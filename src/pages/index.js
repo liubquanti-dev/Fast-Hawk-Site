@@ -34,7 +34,7 @@ export default function Home() {
   return (
     <Layout
       title={`Сайт`}
-      description="Офіційний сайт Minecraft сервера Mine Count.">
+      description="Офіційний сайт Rust сервера Fast Hawk.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
