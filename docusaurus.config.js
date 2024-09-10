@@ -64,6 +64,11 @@ const config = {
         },
         items: [
           {
+						href: 'https://stats.uptimerobot.com/NowpAIVNnk',
+						className: 'navbar-item-uptimerobot',
+						position: 'right',
+					},
+          {
 						href: 'https://github.com/liubquanti-dev/Fast-Hawk-Site',
 						className: 'navbar-item-github',
 						position: 'right',
