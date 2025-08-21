@@ -5,7 +5,7 @@ const config = {
   tagline: 'Безкоштовний публічний Rust сервер',
   favicon: 'img/favicon.png',
 
-  url: 'https://fhawk.fun',
+  url: 'https://fhawk.liubquanti.click',
   baseUrl: '/',
 
   organizationName: 'White-Heart-Dev',
@@ -102,7 +102,7 @@ const config = {
               },
               {
                 label: 'Steam',
-                to: 'https://steamcommunity.com/groups/dglade',
+                to: 'https://steamcommunity.com/groups/liubquanti',
               },
             ],
           },
@@ -122,11 +122,11 @@ const config = {
 
               {
                 label: 'Minecraft',
-                to: 'https://mcount.fun',
+                to: 'https://mcount.liubquanti.click',
               },
               {
                 label: 'Terraria',
-                to: 'https://jbrave.fun',
+                to: 'https://jbrave.liubquanti.click',
               },
             ],
           },
